@@ -39,7 +39,7 @@ This action opens the app in your default web browser. From there, you can uploa
 - Cleaned and processed data, transforming it into a format suitable for analysis.
 - Implemented a streamlined user interface with Streamlit, allowing for manual input of measurements or connection to a cytology lab for automated data retrieval.
 - Created a radar chart visualization to represent cell nuclei measurements in terms of mean, standard error, and worst values.
-- Integrated a machine learning model for predicting cell cluster types (benign or malicious) based on user-input measurements.
+- Integrated a machine learning model with Logistic Regression for predicting cell cluster types (benign or malicious) based on user-input measurements.
 - Incorporated styling with CSS to enhance the visual appeal of the application.
 - Ensured responsive design for user-friendly experience on different devices.
 
