@@ -1,6 +1,11 @@
 # Predictive Tool for Breast Cancer Diagnosis
 
+## Web app link
+
+https://predictive-tool-for-breast-cancer-diagnosis.streamlit.app/
+
 ## Overview
+
 
 The Breast Cancer Diagnosis application is an AI-driven tool developed to aid medical professionals in identifying breast cancer. Leveraging a set of measurements, the application predicts whether a breast mass is benign or malignant. It visually presents the input data through a radar chart and showcases the predicted diagnosis along with the associated probability of being benign or malignant. The application allows manual input of measurements or can be connected to a cytology lab to directly retrieve data from a machine. It's important to note that the app itself does not include the functionality to connect to the laboratory machine.
 
